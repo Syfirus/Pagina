@@ -7,8 +7,8 @@ pass = document.getElementById("contraseña").value;
 if(user == "Syfirus" && pass == "Kingsman22" || user == "" && pass == "" ){
 
 
- window.location="index.html"
- location.href="index.html"
+ window.location="pagina/index.html"
+ location.href="pagina/index.html"
 
 }
 }
