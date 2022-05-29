@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(../img/tko.gif) no-repeat center top;
+  background-size: cover;
+  height: 100vh;
+  background-position:center;
+}
